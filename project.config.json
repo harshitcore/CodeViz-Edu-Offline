@@ -1,0 +1,21 @@
+{
+  "name": "CodeViz - Educational C Programming Compiler",
+  "category": "Educational Technology",
+  "stack": ["Python", "C", "Tkinter", "SQLite"],
+  "description": "CodeViz – An offline, interactive C programming learning and compiler app with themes, tooltips, and personalized user experience.",
+  "problem": "Students struggle to learn C programming without real-time feedback and visualization. Traditional IDEs lack educational features and require constant internet connectivity.",
+  "solution": "Build an offline, interactive C compiler with educational features, theme customization, and personalized user experience for enhanced learning.",
+  "features": [
+    "Offline C compiler and executor",
+    "Interactive code execution with real-time feedback",
+    "Multiple theme support for personalized experience",
+    "Context-aware tooltips for C programming concepts",
+    "User profile and progress tracking",
+    "Educational visualizations"
+  ],
+  "challenges": [
+    "Placeholder: Add technical challenges faced during development"
+  ],
+  "liveUrl": "https://github.com/harshitcore/CodeViz-Edu-Offline",
+  "architectureDiagram": ""
+}
