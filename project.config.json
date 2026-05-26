@@ -1,5 +1,5 @@
 {
-  "name": "CodeViz - An Offile Learning Companion",
+  "name": "CodeViz - An Offline Learning Companion",
   "category": "Educational Technology",
   "stack": ["Python", "C", "Tkinter", "SQLite"],
   "description": "CodeViz – An offline, interactive C programming learning and compiler app with themes, tooltips, and personalized user experience.",
